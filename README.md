@@ -190,7 +190,7 @@ Python 基础 (模块2)
 
 | 资源 | 说明 |
 |------|------|
-| [NOAI 2026 学术大纲 V1.5](https://noai.org) | 竞赛官方考纲 |
+| [NOAI 2026 学术大纲 V1.5](https://ioaic.org.cn) | 竞赛官方考纲 |
 | [动手学深度学习 (d2l-zh-pytorch)](https://zh.d2l.ai) | PyTorch 版深度学习教材 |
 | [IAIO Training Guide](https://iaio-official.org) | 国际人工智能奥林匹克训练指南 |
 | [IOAI Syllabus 2025](https://ioai-official.org) | 国际奥林匹克 AI 竞赛大纲 |
